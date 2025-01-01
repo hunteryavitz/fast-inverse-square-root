@@ -1,12 +1,14 @@
 # Fast Inverse Square Root Algorithm
 
+A simple Compose for Desktop app.
+
 ## Description
 
 This is a simple application that demonstrates the fast inverse square root algorithm. The algorithm is used to calculate the inverse square root of a floating point number. The algorithm is used in computer graphics to calculate the normal vector of a surface. The algorithm is used in the Quake III Arena game.
 
 ## Install
 
-Clone the repository and using IntelliJ IDEA open the project. The project uses Java 17.
+Clone the repository and use IntelliJ IDEA to open and run the project. The project uses Kotlin with Compose for Desktop.
 
 ## Run
 
